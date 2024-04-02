@@ -1,0 +1,1 @@
+# eslint-plugin-vee-validate-migrator
