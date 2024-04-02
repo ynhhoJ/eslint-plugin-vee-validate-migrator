@@ -2,6 +2,8 @@
 
 This plugin provides a set of ESLint rules to help migrate from Vee Validate v3 to Vee Validate v4.
 
+https://github.com/logaretm/vee-validate/issues/2849#issuecomment-2032888711
+
 ## Usage
 
 Follow these steps to use the eslint-plugin-vee-validate-migrator in your project:
